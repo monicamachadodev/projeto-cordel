@@ -7,7 +7,7 @@
 
 Site interativo com o poema "Cordel Moderno" de Milton Duarte, apresentando efeito parallax e design responsivo.
 
-🔗 **Acesso online:** [https://monicamachadodev.github.io/projeto-cordel/](https://monicamachadodev.github.io/projeto-cordel/)
+🔗 **Acesso online:** [Cordel Moderno](https://monicamachadodev.github.io/projeto-cordel/)
 
 ---
 
